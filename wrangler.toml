@@ -1,0 +1,20 @@
+name = "hono-tut"
+compatibility_date = "2024-08-05"
+
+DATABASE_URL = "postgresql://test_owner:5pj9YVqgnwkz@ep-bitter-poetry-a1adn91u-pooler.ap-southeast-1.aws.neon.tech/test?sslmode=require"
+
+# [[kv_namespaces]]
+# binding = "MY_KV_NAMESPACE"
+# id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+# [[r2_buckets]]
+# binding = "MY_BUCKET"
+# bucket_name = "my-bucket"
+
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "my-database"
+# database_id = ""
+
+# [ai]
+# binding = "AI"
